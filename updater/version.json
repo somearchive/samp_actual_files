@@ -1,1 +1,4 @@
-привет
+{
+  "latest": "0.1",
+  "updateurl": "https://raw.githubusercontent.com/somearchive/samp_actual_files/main/updater/autoupdater_kichiro.lua"
+}
